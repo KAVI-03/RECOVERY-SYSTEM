@@ -49,7 +49,7 @@ An AI-powered web application that helps students and staff report, search, and 
 
 Register → Login → Report Item → AI Matching → Notification → Claim Request → Admin Verification → Item Recovery
 
-## Project objectives 
+## 📌 Project objectives 
 
 
 Today, I focused on defining the project objectives for the Smart and Secure Lost Item Recovery System. The primary goal is to develop a secure and user-friendly platform that helps students and staff report lost and found items efficiently. Key objectives include enabling easy item reporting, implementing AI-based matching to identify potential item matches, sending automated notifications to users, and providing a claim verification process for secure item recovery. Additionally, the system aims to improve recovery rates, reduce manual effort, maintain a centralized database, and ensure data security through proper authentication and access control mechanisms.
